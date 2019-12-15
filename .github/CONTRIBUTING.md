@@ -35,6 +35,5 @@ If you are uncertain whether your idea is a good feature for this project, open 
 
 ## Additional resources
 * [Code Of Conduct](CODE_OF_CONDUCT.md)
-* [Issue tracker](/issues)
 * [General GitHub documentation](https://help.github.com/)
 * [GitHub pull-request documentation](https://help.github.com/articles/creating-a-pull-request/)
